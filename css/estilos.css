@@ -1,0 +1,11 @@
+.titulo{
+    font-family: Verdana;
+    color: darkblue;
+    font-size: 32px;
+    text-align: center;
+}
+.contenedor{
+    background-color: #008b8b;
+    border-radius: 5px;
+    height: 200px;
+}
